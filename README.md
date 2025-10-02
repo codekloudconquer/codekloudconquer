@@ -64,8 +64,8 @@ I'm currently on a **90-day journey** from customer service to cloud engineering
 ### 🤝 Let's Connect
 [![Website](https://img.shields.io/badge/Website-codekloudconquer.com-blue)](https://codekloudconquer.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](your-youtube)
-[![Email](https://img.shields.io/badge/Email-contact%40codekloudconquer.com-green)](mailto:contact@codekloudconquer.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](www.youtube.com/@CodeKloudConquer)
+[![Email](https://img.shields.io/badge/Email-contact%40codekloudconquer.com-green)](mailto:info@codekloudconquer.com)
 
 ---
 
